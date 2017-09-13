@@ -13,7 +13,7 @@ python3 convert.py B0A1
 Result => 啊
 ```
 
-## All codes
+## All codes + Chinese characters
 
 ```
 
